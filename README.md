@@ -1,5 +1,7 @@
 # Lambda Diffusers
 
+(Fork by @nbardy to support image urls instead of HF images)
+
 _Additional models and pipelines for 🤗 Diffusers created by [Lambda Labs](https://lambdalabs.com/)_
 
 - [Stable Diffusion Image Variations](#stable-diffusion-image-variations)
